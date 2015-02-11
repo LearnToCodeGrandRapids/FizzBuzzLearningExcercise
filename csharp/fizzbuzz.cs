@@ -2,7 +2,7 @@ class Program
 {
     static void Main()
     {
-        for (uint i = 1; i <= 100; i++) {
+        for (int i = 1; i <= 100; i++) {
             string s = null;
  
             if (is_multiple_of_3(i))
